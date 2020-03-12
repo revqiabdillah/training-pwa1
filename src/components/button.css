@@ -1,0 +1,11 @@
+
+.btn-fire {
+    background-color: #d45333;
+    border : 1px solid #d45333;
+    color: #ffffff;
+}
+
+.btn-fire :hover {
+    background-color: #ffffff !important;
+    color : #d45333 !important;
+}
