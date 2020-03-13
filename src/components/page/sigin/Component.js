@@ -1,8 +1,8 @@
 import React from 'react'
 import './style.css';
-import Field from '../field/Component'
-import Error from '../error/Component'
-import Button from '../Button'
+import Field from '../../commons/field/Component'
+import Error from '../../commons/error/Component'
+import Button from '../../Button'
 
 export default class Component extends React.Component {
     constructor(){
